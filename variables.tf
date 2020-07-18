@@ -20,4 +20,4 @@ variable "db_write_capacity" {
 
 variable "tag_user_name" {
   type = string
-i}
+}
