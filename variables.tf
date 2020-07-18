@@ -10,14 +10,14 @@ variable "db_table_name" {
 
 variable "db_read_capacity" {
   type    = number
-  default = 1
+  default = 2
 }
 
 variable "db_write_capacity" {
   type    = number
-  default = 1
+  default = 2
 }
 
 variable "tag_user_name" {
   type = string
-}
+i}
